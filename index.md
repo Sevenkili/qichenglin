@@ -3,7 +3,7 @@
 - <font size=2 face="Candara">email: 853200323@qq.com</font>
 - <font size=2 face="Candara">xiaohongshu: 675331358</font>
 ## My Illustration Works
-- <font size=2 face="Candara"><a href="http://www.baidu.com">IP Design: BUMBLEBEE</a> </font>
+- <font size=2 face="Candara"><a href="http://www.baidu.com">IP Design: <i>BUMBLEBEE</i></a> </font>
 - <font size=2 face="Candara">Illustration Poster：*COLOR, STILL LIFE, LIGHT And SHADOW*</font>
 - <font size=2 face="Candara">Music Poster I: *MUSIC PLANET*</font>
 - <font size=2 face="Candara">Music Poster II: *MUSIC THERAPY*</font>
