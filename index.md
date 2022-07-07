@@ -3,7 +3,7 @@
 - email: 853200323@qq.com
 - xiaohongshu: 675331358
 ## My Illustration Works
-- <font size=1 face="Arvo">IP Design:</font>*<font size=1 face="Arvo">BUMBLEBEE</font>* 
+- <font size=1 face="Candara">IP Design:</font>*<font size=1 face="Candara">BUMBLEBEE</font>* 
 - Illustration Poster：*COLOR, STILL LIFE, LIGHT And SHADOW*
 - Music Poster I: *MUSIC PLANET*
 - Music Poster II: *MUSIC THERAPY*
